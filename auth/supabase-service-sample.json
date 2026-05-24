@@ -1,7 +1,7 @@
 {
-    "host": "database.server.com",
-    "password": "secretpassword",
-    "user": "postgres",
+    "host": "aws-1-eu-central-1.pooler.supabase.com",
+    "password": "INGE6uCDK2jfwFew",
+    "user": "postgres.rslopjxvsruekxdkhxks",
     "database": "postgres",
     "port": 5432
-}
+  }

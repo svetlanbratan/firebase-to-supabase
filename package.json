@@ -14,7 +14,7 @@
     "firebase-admin": "^10.0.2",
     "firebase-scrypt": "^2.1.0",
     "moment": "^2.29.1",
-    "pg": "^8.7.1",
+    "pg": "^8.21.0",
     "stream-json": "^1.7.3"
   }
 }

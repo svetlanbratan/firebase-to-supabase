@@ -1,0 +1,4706 @@
+[
+{
+  "id": "063c0c86-5f3e-4055-aec0-44cb5d09bc5f",
+  "name": "Флораны",
+  "singularName": "Флоран",
+  "link": "/about-world/races/063c0c86-5f3e-4055-aec0-44cb5d09bc5f",
+  "image": {
+    "src": "https://sun9-85.userapi.com/s/v1/ig2/8ox1ppevytGqLVWDAR1AHuLL1eV9k-WaRX2MJfVv738bMYwgufquDsVOZtWeJtoRgBIY_GdGTLuYSd8r9gIe8cug.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x719,640x853,720x959,1080x1439,1086x1447&from=bu&u=OVGALnWnKEDNZ_v7RGF0wE7sTJ2pADOb2_y-QWIz_cY&cs=1086x0",
+    "alt": "Новая раса",
+    "hint": ""
+  },
+  "listImage": "https://sun9-41.userapi.com/s/v1/ig2/E6unTDQSIYfIYfX4N5OO-XxeSDq2umEu97sMDaT0Ity7msWEKyI2xvGgXsQS0eHP2J5EJ_MDraHwwNpMhBYB4mzP.jpg?quality=95&as=32x37,48x55,72x82,108x124,160x183,240x275,360x412,480x549,540x618,640x732,720x824,1024x1172&from=bu&u=pceq3b0aXhiqrIWAoSqS5n1wuHFrXpbIJl5Bhr8YtvA&cs=1024x0",
+  "filters": [
+    "Все",
+    "Безопасные",
+    "Растения и грибы"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [],
+    "gallery": [],
+    "subRaces": []
+  },
+  "order": 34,
+  "firestore_id": "063c0c86-5f3e-4055-aec0-44cb5d09bc5f"
+},
+{
+  "id": "24063435-f383-4fb9-a325-c080c32f253d",
+  "name": "Лесные эльфы",
+  "singularName": "Лесной эльф",
+  "link": "/about-world/races/24063435-f383-4fb9-a325-c080c32f253d",
+  "image": {
+    "src": "https://sun9-29.userapi.com/s/v1/ig2/GZr7dQzx0U6lVPZwB_Ep52HpnSKZbmKqYWstTW7Kv0F5uDC1IyHtlqqq-VGtbtiZoHDrGS1zigZMQ9oSupAi_CNR.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1024x1536&from=bu&cs=1024x0",
+    "alt": "Новая раса",
+    "hint": ""
+  },
+  "listImage": "https://sun9-64.userapi.com/s/v1/ig2/wNDPnlHRZnPNGLUCivG5EdDWZaRfDiYcLTWF3cqJNpczJ0aqb3DSkvNJuI_Md15Ad_vD4URJ8u3822EnIQ0Dhvtf.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=1024x0",
+  "filters": [
+    "Все",
+    "Для новичков",
+    "Безопасные",
+    "Эльфы"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [],
+    "gallery": [],
+    "subRaces": []
+  },
+  "order": 9,
+  "firestore_id": "24063435-f383-4fb9-a325-c080c32f253d"
+},
+{
+  "id": "4cb3bdfb-136b-4e08-b772-3165cb43aa2c",
+  "name": "Гномы",
+  "singularName": "Гном",
+  "link": "/about-world/races/4cb3bdfb-136b-4e08-b772-3165cb43aa2c",
+  "image": {
+    "src": "https://sun9-59.userapi.com/s/v1/ig2/4qh-6jeLaFwQlxvqcPOKJEGMQ-u1syU4CuTih6sStqpwHJx_MiIrHxul6whI_HO_CxDk3KZYQ-9HcpIDfg_pE821.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1024x1536&from=bu&cs=1024x0",
+    "alt": "Новая раса",
+    "hint": ""
+  },
+  "listImage": "https://sun9-34.userapi.com/s/v1/ig2/T1Hfu416-6OHI26r7sMn9ePyqqEtNtIKoY3WmeX2Me9YfGmgOQaAlo1pC727GksbfobKUkCfChVNVOpwD0qI-kyz.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=1024x0",
+  "filters": [
+    "Все",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [],
+    "gallery": [],
+    "subRaces": []
+  },
+  "order": 50,
+  "firestore_id": "4cb3bdfb-136b-4e08-b772-3165cb43aa2c"
+},
+{
+  "id": "ad3805bc-a18e-451d-9084-c1fb16bc1df0",
+  "name": "Гоблины",
+  "singularName": "Гоблин",
+  "link": "/about-world/races/ad3805bc-a18e-451d-9084-c1fb16bc1df0",
+  "image": {
+    "src": "https://sun9-70.userapi.com/s/v1/ig2/qJXPIA2afNcVSHFsiGyhILwW_Kq_H63BUFSNEkaA1JVi4_gBPSDTn3bHm6ulpDlip-kTx0Ei11jSNI7BBSd0kPoq.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1024x1536&from=bu&u=6Ip02J9ThfUMzIjWW2DhxB-Fd8SmCsH9YRbbpc26-CI&cs=1024x0",
+    "alt": "Новая раса",
+    "hint": ""
+  },
+  "listImage": "https://sun9-3.userapi.com/s/v1/ig2/DXvl2-2BzLspwM9zEYtG_2PZhxdeHPlNLqZwjEhU-3RXLJm3BlkH3aEcpdtYPYVM2YXtNfKETA25SK8BAhnixRee.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&u=byD_PVo9tEFo-GUuyK-1yTWRhI9KSj_5bJ1a1rkABFE&cs=1024x0",
+  "filters": [
+    "Все"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [],
+    "gallery": [],
+    "subRaces": []
+  },
+  "order": 31,
+  "firestore_id": "ad3805bc-a18e-451d-9084-c1fb16bc1df0"
+},
+{
+  "id": "alahors",
+  "name": "Алахоры",
+  "singularName": "Алахор",
+  "link": "/about-world/races/alahors",
+  "image": {
+    "src": "https://framerusercontent.com/images/FEWPeQOzuLhIt2eCLNZ3cyN3Y.png?scale-down-to=1024",
+    "alt": "Алахоры",
+    "hint": "divine warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/fhQiLeryT8Y6dRdRjMQ4pMc0WqQ.png",
+  "filters": [
+    "Все",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алахоры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алахоры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алахоры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 13,
+  "firestore_id": "alahors"
+},
+{
+  "id": "alariens",
+  "name": "Алариены",
+  "singularName": "Алариен",
+  "link": "/about-world/races/alariens",
+  "image": {
+    "src": "https://framerusercontent.com/images/uotYKk1QoqHmmUmgOuIttRIlg.png?scale-down-to=1024",
+    "alt": "Алариены",
+    "hint": "winged humanoid"
+  },
+  "listImage": "https://framerusercontent.com/images/YWuDodGqSXI7CPPBm2ox9CYsug.png",
+  "filters": [
+    "Все",
+    "Крылатые",
+    "Дармирцы",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алариены - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алариены - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Алариены - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 28,
+  "firestore_id": "alariens"
+},
+{
+  "id": "amphibians",
+  "name": "Амфибии",
+  "singularName": "Амфибия",
+  "link": "/about-world/races/amphibians",
+  "image": {
+    "src": "https://framerusercontent.com/images/GVklBQWHrjOGARikMMbCHDxcuw.png?scale-down-to=1024",
+    "alt": "Амфибии",
+    "hint": "amphibian humanoid"
+  },
+  "listImage": "https://framerusercontent.com/images/a5tKq2Mhq7JxAFOsFD0VxITFG8s.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "С животными чертами",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Амфибии - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Амфибии - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Амфибии - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 39,
+  "firestore_id": "amphibians"
+},
+{
+  "id": "antares",
+  "name": "Антаресы",
+  "singularName": "Антарес",
+  "link": "/about-world/races/antares",
+  "image": {
+    "src": "https://framerusercontent.com/images/pMIQZizCgHO2FKwrNPgbAPAUi5A.png?scale-down-to=1024",
+    "alt": "Антаресы",
+    "hint": "light elf"
+  },
+  "listImage": "https://framerusercontent.com/images/zAh1LTrZ0Ztow4KqusUocezuUE.png",
+  "filters": [
+    "Все",
+    "Божественные",
+    "Коренные Огнеславии",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 3,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антаресы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антаресы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антаресы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 65,
+  "firestore_id": "antares"
+},
+{
+  "id": "anthropomorphs",
+  "name": "Антропоморфы",
+  "singularName": "Антропоморф",
+  "link": "/about-world/races/anthropomorphs",
+  "image": {
+    "src": "https://framerusercontent.com/images/kkzu5faaSjqVB3z42GMyE2YsvX0.png?scale-down-to=1024",
+    "alt": "Антропоморфы",
+    "hint": "anthropomorphic animal"
+  },
+  "listImage": "https://framerusercontent.com/images/qnCR6mfYIjW760Ge9wPrdRy0rtY.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Коренные Огнеславии",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антропоморфы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антропоморфы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Антропоморфы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 23,
+  "firestore_id": "anthropomorphs"
+},
+{
+  "id": "arachnia",
+  "name": "Арахнии",
+  "singularName": "Арахния",
+  "link": "/about-world/races/arachnia",
+  "image": {
+    "src": "https://framerusercontent.com/images/HKDBG68Vl9RGMzCvMK4MQpEs.png?scale-down-to=1024",
+    "alt": "Арахнии",
+    "hint": "spider woman"
+  },
+  "listImage": "https://framerusercontent.com/images/ua8tVRefuE2R1kiPzUZZti8s88.png",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Только женщины",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахнии - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахнии - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахнии - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 43,
+  "firestore_id": "arachnia"
+},
+{
+  "id": "arachnids",
+  "name": "Арахниды",
+  "singularName": "Арахнид",
+  "link": "/about-world/races/arachnids",
+  "image": {
+    "src": "https://framerusercontent.com/images/E0eLQbm644gIltTXZKHPgdC8.png?scale-down-to=1024",
+    "alt": "Арахниды",
+    "hint": "spider man"
+  },
+  "listImage": "https://framerusercontent.com/images/phVZppHHiOFSGJpCj9BH1PFG1M.png",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Коренные Артерианска",
+    "Только мужчины",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахниды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахниды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Арахниды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 44,
+  "firestore_id": "arachnids"
+},
+{
+  "id": "aspids",
+  "name": "Аспиды",
+  "singularName": "Аспид",
+  "link": "/about-world/races/aspids",
+  "image": {
+    "src": "https://framerusercontent.com/images/uYpCpibtk0fsVdwtb8FbwnjDzHc.png?scale-down-to=1024",
+    "alt": "Аспиды",
+    "hint": "snake person"
+  },
+  "listImage": "https://framerusercontent.com/images/jjQmE5jwpxFj7kjRSPO4B8I.png",
+  "filters": [
+    "Все",
+    "Коренные Сан-Ликориса",
+    "Оборотни",
+    "С животными чертами",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Аспиды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Аспиды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Аспиды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 7,
+  "firestore_id": "aspids"
+},
+{
+  "id": "astroloids",
+  "name": "Астролоиды",
+  "singularName": "Астролоид",
+  "link": "/about-world/races/astroloids",
+  "image": {
+    "src": "https://framerusercontent.com/images/dI9sUMH8BMLSFII64hJpPLI4s.png?scale-down-to=1024",
+    "alt": "Астролоиды",
+    "hint": "celestial being"
+  },
+  "listImage": "https://framerusercontent.com/images/ROGJIzViUkeW4JvAZyla6hKegk.png",
+  "filters": [
+    "Все",
+    "Божественные",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 2,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Астролоиды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Астролоиды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Астролоиды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 66,
+  "firestore_id": "astroloids"
+},
+{
+  "id": "basilisks",
+  "name": "Василиски",
+  "singularName": "Василиск",
+  "link": "/about-world/races/basilisks",
+  "image": {
+    "src": "https://framerusercontent.com/images/Fx8anh9ntWbMnjfw8uIRxKxHzI.png?scale-down-to=1024",
+    "alt": "Василиски",
+    "hint": "basilisk"
+  },
+  "listImage": "https://framerusercontent.com/images/Vg0tslSq6ajdvKe59JRnGShg0SU.png",
+  "filters": [
+    "Все",
+    "Коренные Огнеславии",
+    "Оборотни",
+    "С животными чертами",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Василиски - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Василиски - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Василиски - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 6,
+  "firestore_id": "basilisks"
+},
+{
+  "id": "beloyars",
+  "name": "Белояры",
+  "singularName": "Белояр",
+  "link": "/about-world/races/beloyars",
+  "image": {
+    "src": "https://framerusercontent.com/images/i3aY7rg7rbngXFqd0dpiGuEYs.png?scale-down-to=1024",
+    "alt": "Белояры",
+    "hint": "slavic warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/MyExyBGcymeHSGcxbH0SKINM9ZY.png",
+  "filters": [
+    "Все",
+    "Коренные Белоснежья",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Белояры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Белояры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Белояры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 12,
+  "firestore_id": "beloyars"
+},
+{
+  "id": "butterflies",
+  "name": "Бабочки",
+  "singularName": "Бабочка",
+  "link": "/about-world/races/butterflies",
+  "image": {
+    "src": "https://framerusercontent.com/images/3OaypwEmj4Nt7rIQ15RULPnOvo.png?scale-down-to=1024",
+    "alt": "Бабочки",
+    "hint": "butterfly person"
+  },
+  "listImage": "https://framerusercontent.com/images/tpSkXYuf5Hh66jaDeoEpinm1c.png",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Крылатые",
+    "Дармирцы",
+    "Только женщины",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Бабочки - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Бабочки - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Бабочки - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 36,
+  "firestore_id": "butterflies"
+},
+{
+  "id": "centaurs",
+  "name": "Кентавры",
+  "singularName": "Кентавр",
+  "link": "/about-world/races/centaurs",
+  "image": {
+    "src": "https://framerusercontent.com/images/8HbIk6o24FU6qdsEByubKEz6lxI.png?scale-down-to=1024",
+    "alt": "Кентавры",
+    "hint": "centaur"
+  },
+  "listImage": "https://framerusercontent.com/images/3MhQXgOhcWovy1ZBww63CRrdO8.png?scale-down-to=512",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кентавры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кентавры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кентавры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 24,
+  "firestore_id": "centaurs"
+},
+{
+  "id": "chameleons",
+  "name": "Хамелеоны",
+  "singularName": "Хамелеон",
+  "link": "/about-world/races/chameleons",
+  "image": {
+    "src": "https://framerusercontent.com/images/uV7Ncd9q2umq6N4YhFubSLEZ9E.png?scale-down-to=1024",
+    "alt": "Хамелеоны",
+    "hint": "chameleon person"
+  },
+  "listImage": "https://framerusercontent.com/images/zHd0kM3EC8Z0JGBQgCNtpYlrI.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Оборотни",
+    "Фамильяры",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Хамелеоны - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Хамелеоны - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Хамелеоны - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 26,
+  "firestore_id": "chameleons"
+},
+{
+  "id": "chimeras",
+  "name": "Химеры",
+  "singularName": "Химера",
+  "link": "/about-world/races/chimeras",
+  "image": {
+    "src": "https://framerusercontent.com/images/oOplEBfCSsDY0nkCa3Sgjtqx7eQ.png?scale-down-to=1024",
+    "alt": "Химеры",
+    "hint": "chimera"
+  },
+  "listImage": "https://framerusercontent.com/images/8CcG8dAmodwqwYKowO3ArUOTVE.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Искусственные",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Химеры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Химеры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Химеры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 56,
+  "firestore_id": "chimeras"
+},
+{
+  "id": "coralites",
+  "name": "Коралиты",
+  "singularName": "Коралит",
+  "link": "/about-world/races/coralites",
+  "image": {
+    "src": "https://framerusercontent.com/images/SkA7p48qv5RW8t8l5nXpxqkt9wA.png?scale-down-to=1024",
+    "alt": "Коралиты",
+    "hint": "coral person"
+  },
+  "listImage": "https://framerusercontent.com/images/JBtHuzLxNaxwT9jsVBub7LUX4.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Коренные Заприливья",
+    "Растения и грибы",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Коралиты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Коралиты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Коралиты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 40,
+  "firestore_id": "coralites"
+},
+{
+  "id": "cursed",
+  "name": "Проклятые",
+  "singularName": "Проклятый",
+  "link": "/about-world/races/cursed",
+  "image": {
+    "src": "https://framerusercontent.com/images/4afqkLuuCTqJQp5eXhGhoDwWXU.png?scale-down-to=1024",
+    "alt": "Проклятые",
+    "hint": "cursed being"
+  },
+  "listImage": "https://framerusercontent.com/images/3yYqdPSnfJrLgtRQ7hM64rGPug.png",
+  "filters": [
+    "Все",
+    "Опасные",
+    "Божественные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Проклятые - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Проклятые - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Проклятые - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 45,
+  "firestore_id": "cursed"
+},
+{
+  "id": "darnatiare",
+  "name": "Дарнатиаре",
+  "singularName": "Дарнатиар",
+  "link": "/about-world/races/darnatiare",
+  "image": {
+    "src": "https://framerusercontent.com/images/fT8Lyd4PFwbVcwlR0NbEXOdMSI.png?scale-down-to=1024",
+    "alt": "Дарнатиаре",
+    "hint": "crystal being"
+  },
+  "listImage": "https://framerusercontent.com/images/kTC5eHzRPje1Avov6whTamm895U.png",
+  "filters": [
+    "Все",
+    "Дармирцы",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 3,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дарнатиаре - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дарнатиаре - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дарнатиаре - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 67,
+  "firestore_id": "darnatiare"
+},
+{
+  "id": "djakali",
+  "name": "Джакали",
+  "singularName": "Джакали",
+  "link": "/about-world/races/djakali",
+  "image": {
+    "src": "https://framerusercontent.com/images/XLPIH8KKWPuwFmJGqW8fIO9CDmU.png?scale-down-to=1024",
+    "alt": "Джакали",
+    "hint": "jackal person"
+  },
+  "listImage": "https://framerusercontent.com/images/dZL4pKsXNBtDRQ37WKVBv1MCig.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Коренные Огнеславии",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джакали - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джакали - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джакали - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 20,
+  "firestore_id": "djakali"
+},
+{
+  "id": "djinns",
+  "name": "Джинны",
+  "singularName": "Джинн",
+  "link": "/about-world/races/djinns",
+  "image": {
+    "src": "https://framerusercontent.com/images/wHSST6tEpY2d5P6KE2jhsDa4s.png?scale-down-to=1024",
+    "alt": "Джинны",
+    "hint": "genie"
+  },
+  "listImage": "https://framerusercontent.com/images/yP9R5GZOoUEa1fkn8m5VMtLnJLE.png",
+  "filters": [
+    "Все",
+    "Духи",
+    "Божественные",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джинны - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джинны - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Джинны - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 53,
+  "firestore_id": "djinns"
+},
+{
+  "id": "dolls",
+  "name": "Куклы",
+  "singularName": "Кукла",
+  "link": "/about-world/races/dolls",
+  "image": {
+    "src": "https://framerusercontent.com/images/dYmDBFpjzH9n0p7xc8tfiMFBJVI.png?scale-down-to=1024",
+    "alt": "Куклы",
+    "hint": "living doll"
+  },
+  "listImage": "https://framerusercontent.com/images/reS794ED9ykI27enNwKE5eKN00.png",
+  "filters": [
+    "Все",
+    "Искусственные",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Куклы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Куклы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Куклы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 52,
+  "firestore_id": "dolls"
+},
+{
+  "id": "domovoy",
+  "name": "Домовые",
+  "singularName": "Домовой",
+  "link": "/about-world/races/domovoy",
+  "image": {
+    "src": "https://framerusercontent.com/images/qkbj70ertG3TjmPv5NPZNJRztWM.png?scale-down-to=1024",
+    "alt": "Домовые",
+    "hint": "domovoy brownie"
+  },
+  "listImage": "https://framerusercontent.com/images/XWkqYOTFRxIlhCQwvy13mv85T0w.png",
+  "filters": [
+    "Все",
+    "Духи",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Домовые - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Домовые - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Домовые - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 15,
+  "firestore_id": "domovoy"
+},
+{
+  "id": "dragons",
+  "name": "Драконы",
+  "singularName": "Дракон",
+  "link": "/about-world/races/dragons",
+  "image": {
+    "src": "https://framerusercontent.com/images/CB10hHNXLLoHpHoG749Efjt8ae4.png?scale-down-to=1024",
+    "alt": "Дракон",
+    "hint": "white dragon concept"
+  },
+  "listImage": "https://framerusercontent.com/images/AsZyZdCuiqfAoPMc2RdPQ4yL9bM.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Крылатые",
+    "Коренные Белоснежья",
+    "Оборотни",
+    "Фамильяры",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Драконы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Драконы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Драконы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 0,
+  "firestore_id": "dragons"
+},
+{
+  "id": "drids",
+  "name": "Дриды",
+  "singularName": "Дрид",
+  "link": "/about-world/races/drids",
+  "image": {
+    "src": "https://framerusercontent.com/images/Z10i5n91bY0yIXU5sulTRKDuOj8.png?scale-down-to=1024",
+    "alt": "Дриды",
+    "hint": "moth person"
+  },
+  "listImage": "https://framerusercontent.com/images/Oj1IvXYoLs0OEfQ9CYccFqGkiA.png",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Крылатые",
+    "Дармирцы",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 59,
+  "firestore_id": "drids"
+},
+{
+  "id": "drow",
+  "name": "Лунные эльфы",
+  "singularName": "Лунный эльф",
+  "link": "/about-world/races/drow",
+  "image": {
+    "src": "https://framerusercontent.com/images/ko97N9mFFTAvpNbcDs8g76Qjpl8.png?scale-down-to=1024",
+    "alt": "Дроу",
+    "hint": "drow elf"
+  },
+  "listImage": "https://framerusercontent.com/images/U8cGOCba1i1pRCJHSkNYWeMSpMY.png",
+  "filters": [
+    "Все",
+    "Эльфы",
+    "Коренные Огнеславии",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дроу - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дроу - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дроу - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 11,
+  "firestore_id": "drow"
+},
+{
+  "id": "dryads",
+  "name": "Дриады",
+  "singularName": "Дриада",
+  "link": "/about-world/races/dryads",
+  "image": {
+    "src": "https://framerusercontent.com/images/4AFCOZyvR21kjgw0lnKjrhnqpc.png?scale-down-to=1024",
+    "alt": "Дриады",
+    "hint": "dryad"
+  },
+  "listImage": "https://framerusercontent.com/images/dPbeSkhqojfAaSgUuSc948BQG8.png",
+  "filters": [
+    "Все",
+    "Растения и грибы",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриады - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриады - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Дриады - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 33,
+  "firestore_id": "dryads"
+},
+{
+  "id": "e769a2a2-afa2-4fce-9465-2cc89bf14d48",
+  "name": "Эстри",
+  "singularName": "Эстри",
+  "link": "/about-world/races/e769a2a2-afa2-4fce-9465-2cc89bf14d48",
+  "image": {
+    "src": "https://sun9-13.userapi.com/s/v1/ig2/q1s9P1ST0D1nIGCm-0JyZMXUJxDFSaRIikxRbM3Bcywepo-Wrp63eK5_licuf5VPd1dukzCNsislfRCehUlIl-fF.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1024x1536&from=bu&cs=1024x0",
+    "alt": "Новая раса",
+    "hint": ""
+  },
+  "listImage": "https://sun9-83.userapi.com/s/v1/ig2/XMsMMM3DFLii98MdYnUg-xEJUSp5JI4EhGJFN6oY8F-cyu0hsVNMbmXs-PmfWIVDWwmpMcV8_AYJ7BTJTaPXQ1ic.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1024x1024&from=bu&cs=1024x0",
+  "filters": [
+    "Все",
+    "Опасные",
+    "Божественные",
+    "Духи"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [],
+    "gallery": [],
+    "subRaces": []
+  },
+  "order": 51,
+  "firestore_id": "e769a2a2-afa2-4fce-9465-2cc89bf14d48"
+},
+{
+  "id": "faceless",
+  "name": "Безликие",
+  "singularName": "Безликий",
+  "link": "/about-world/races/faceless",
+  "image": {
+    "src": "https://framerusercontent.com/images/WYNZdHuqdFwoqFLVFptCNavcU.png?scale-down-to=1024",
+    "alt": "Безликие",
+    "hint": "faceless being"
+  },
+  "listImage": "https://framerusercontent.com/images/ZIuZhyQy2QRoc5aqSsUAdF6QiVI.png",
+  "filters": [
+    "Все",
+    "Коренные Артерианска",
+    "Божественные",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 1,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Безликие - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Безликие - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Безликие - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 70,
+  "firestore_id": "faceless"
+},
+{
+  "id": "ghosts",
+  "name": "Призраки",
+  "link": "/about-world/races/ghosts",
+  "image": {
+    "src": "https://framerusercontent.com/images/9738HN2AFylPAtHgAGw2t4pA8.png?scale-down-to=1024",
+    "alt": "Призраки",
+    "hint": "ghost"
+  },
+  "listImage": "https://framerusercontent.com/images/BV1a1DLJvAorrUc3TM7dgLlqM8.png",
+  "filters": [
+    "Все",
+    "Нежить",
+    "Духи"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Призраки - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Призраки - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Призраки - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 54,
+  "firestore_id": "ghosts"
+},
+{
+  "id": "gurits",
+  "name": "Гуриты",
+  "singularName": "Гурит",
+  "link": "/about-world/races/gurits",
+  "image": {
+    "src": "https://framerusercontent.com/images/zH6RXaGuVFurhawWaojHyTbQ4E.png?scale-down-to=1024",
+    "alt": "Гуриты",
+    "hint": "fish person"
+  },
+  "listImage": "https://framerusercontent.com/images/UPF5OakuWI7eGdtYCOYFr0W62Zw.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Коренные Заприливья",
+    "С животными чертами",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Гуриты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Гуриты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Гуриты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 42,
+  "firestore_id": "gurits"
+},
+{
+  "id": "humans",
+  "name": "Люди и народы",
+  "singularName": "Человек",
+  "link": "/about-world/races/humans",
+  "image": {
+    "src": "https://framerusercontent.com/images/uE1TYG9I9NTZg2vIPTY6TcAG0.png?scale-down-to=1024",
+    "alt": "Люди и народы",
+    "hint": "human fantasy"
+  },
+  "listImage": "https://framerusercontent.com/images/EIUrJbcpCXGevpR7jMq0KEGAoI.png",
+  "filters": [
+    "Все",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Люди и народы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Люди и народы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Люди и народы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 1,
+  "firestore_id": "humans"
+},
+{
+  "id": "iho",
+  "name": "Ихо",
+  "singularName": "Ихо",
+  "link": "/about-world/races/iho",
+  "image": {
+    "src": "https://framerusercontent.com/images/3Jp0lMPQc7fpinNOhYfJwhs7MZ4.png",
+    "alt": "Ихо",
+    "hint": "plant humanoid"
+  },
+  "listImage": "https://framerusercontent.com/images/TOnyJ0C1R1lzJPnA7Ll6vFbaE.png",
+  "filters": [
+    "Все",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ихо - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ихо - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ихо - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 29,
+  "firestore_id": "iho"
+},
+{
+  "id": "insectoids",
+  "name": "Инсектоиды",
+  "singularName": "Инсектоид",
+  "link": "/about-world/races/insectoids",
+  "image": {
+    "src": "https://framerusercontent.com/images/X5kMUfOua4ClPVsBCXxukZnWc.png",
+    "alt": "Инсектоиды",
+    "hint": "insectoid humanoid"
+  },
+  "listImage": "https://framerusercontent.com/images/WpeOblbDfzJbnXYNjCySrrLLnk.webp",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Опасные",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Инсектоиды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Инсектоиды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Инсектоиды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 58,
+  "firestore_id": "insectoids"
+},
+{
+  "id": "kitsune",
+  "name": "Кицунэ",
+  "singularName": "Кицунэ",
+  "link": "/about-world/races/kitsune",
+  "image": {
+    "src": "https://framerusercontent.com/images/Y88GLAZaeH94A9wjCSAHLavEo.png?scale-down-to=1024",
+    "alt": "Кицунэ",
+    "hint": "kitsune"
+  },
+  "listImage": "https://framerusercontent.com/images/v1SfbImqjC1E9mMwsGfuG3RUVk.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Духи",
+    "Оборотни",
+    "Фамильяры",
+    "Коренные Сан-Ликориса",
+    "Божественные",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кицунэ - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кицунэ - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кицунэ - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 19,
+  "firestore_id": "kitsune"
+},
+{
+  "id": "kordei",
+  "name": "Кордеи",
+  "singularName": "Кордеи",
+  "link": "/about-world/races/kordei",
+  "image": {
+    "src": "https://framerusercontent.com/images/WHOGi7ZBy47b5kugZa3pfnv0.png?scale-down-to=1024",
+    "alt": "Кордеи",
+    "hint": "horned warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/EeT9IyZPF0wMUTyBzPaHQy3L6LY.png",
+  "filters": [
+    "Все",
+    "Рогатые",
+    "С животными чертами",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кордеи - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кордеи - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кордеи - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 22,
+  "firestore_id": "kordei"
+},
+{
+  "id": "kunari",
+  "name": "Кунари",
+  "singularName": "Кунари",
+  "link": "/about-world/races/kunari",
+  "image": {
+    "src": "https://framerusercontent.com/images/sjZzKoBYtowBtJX5MZ0u0Ogo0.png?scale-down-to=1024",
+    "alt": "Кунари",
+    "hint": "horned giant"
+  },
+  "listImage": "https://framerusercontent.com/images/61NKlkxl2fzc24ikJOHJGYYQM0.png",
+  "filters": [
+    "Все",
+    "Рогатые",
+    "С животными чертами",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кунари - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кунари - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Кунари - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 21,
+  "firestore_id": "kunari"
+},
+{
+  "id": "larims",
+  "name": "Ларимы",
+  "singularName": "Ларим",
+  "link": "/about-world/races/larims",
+  "image": {
+    "src": "https://framerusercontent.com/images/z85ci2ahnV8UEAO975asX8EQ.png?scale-down-to=1024",
+    "alt": "Ларимы",
+    "hint": "dark elf"
+  },
+  "listImage": "https://framerusercontent.com/images/RVWXh7jI4Ze83DkHv4xGVlSzSI.png",
+  "filters": [
+    "Все",
+    "Божественные",
+    "Фамильяры",
+    "Оборотни",
+    "Закрытые расы",
+    "Опасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 3,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ларимы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ларимы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ларимы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 64,
+  "firestore_id": "larims"
+},
+{
+  "id": "lartists",
+  "name": "Лартисты",
+  "singularName": "Лартист",
+  "link": "/about-world/races/lartists",
+  "image": {
+    "src": "https://framerusercontent.com/images/euhHrdf5mpuAXYyqPHINm14Aing.png?scale-down-to=1024",
+    "alt": "Лартисты",
+    "hint": "living painting"
+  },
+  "listImage": "https://framerusercontent.com/images/7F47zoffkJ62xboUPbz2xVP6huY.png",
+  "filters": [
+    "Все",
+    "Искусственные",
+    "Безопасные",
+    "Божественные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лартисты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лартисты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лартисты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 27,
+  "firestore_id": "lartists"
+},
+{
+  "id": "leprechauns",
+  "name": "Лепреконы",
+  "singularName": "Лепрекон",
+  "link": "/about-world/races/leprechauns",
+  "image": {
+    "src": "https://framerusercontent.com/images/ecqqr1csxwS9zy2rSOOduu6Ho.png?scale-down-to=1024",
+    "alt": "Лепреконы",
+    "hint": "leprechaun"
+  },
+  "listImage": "https://framerusercontent.com/images/QPf7oAYQColGvu6Pv8Ah8U4gGY.png",
+  "filters": [
+    "Все",
+    "Только мужчины",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лепреконы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лепреконы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Лепреконы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 16,
+  "firestore_id": "leprechauns"
+},
+{
+  "id": "mikanids",
+  "name": "Миканиды",
+  "singularName": "Миканид",
+  "link": "/about-world/races/mikanids",
+  "image": {
+    "src": "https://framerusercontent.com/images/nhsh6wN483ZM1trFRCqhsDVXwU.png",
+    "alt": "Миканиды",
+    "hint": "mushroom person"
+  },
+  "listImage": "https://framerusercontent.com/images/8LCXyncU7KmqLtBNWUtfwF3dBs.png",
+  "filters": [
+    "Все",
+    "Растения и грибы",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Миканиды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Миканиды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Миканиды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 49,
+  "firestore_id": "mikanids"
+},
+{
+  "id": "miriods",
+  "name": "Мириоды",
+  "singularName": "Мириод",
+  "link": "/about-world/races/miriods",
+  "image": {
+    "src": "https://framerusercontent.com/images/0i77iKRcvW0jqsIuyYxjTVEFIw.png?scale-down-to=1024",
+    "alt": "Мириоды",
+    "hint": "multi-limbed creature"
+  },
+  "listImage": "https://framerusercontent.com/images/A9Mlj6QTv1jKLfE5iUEWPerPle8.png",
+  "filters": [
+    "Все",
+    "Насекомовидные",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Мириоды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Мириоды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Мириоды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 57,
+  "firestore_id": "miriods"
+},
+{
+  "id": "mockingbirds",
+  "name": "Пересмешники",
+  "singularName": "Пересмешник",
+  "link": "/about-world/races/mockingbirds",
+  "image": {
+    "src": "https://framerusercontent.com/images/hm2OFHaeUcpS3hvpbG2H5EvcZk.png?scale-down-to=1024&width=880&height=1111",
+    "alt": "Пересмешники",
+    "hint": "shapeshifter"
+  },
+  "listImage": "https://framerusercontent.com/images/VYwpyNeWzogFVdZ30b7ksI5tq6A.png",
+  "filters": [
+    "Все",
+    "Оборотни",
+    "Закрытые расы",
+    "Опасные",
+    "Божественные"
+  ],
+  "isClosed": true,
+  "closedLevel": 3,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Пересмешники - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Пересмешники - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Пересмешники - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 69,
+  "firestore_id": "mockingbirds"
+},
+{
+  "id": "narrators",
+  "name": "Нарраторы",
+  "singularName": "Нарратор",
+  "link": "/about-world/races/narrators",
+  "image": {
+    "src": "https://framerusercontent.com/images/VMk2ln3cBAAFR6rlvtpDzgjdyM.png?scale-down-to=1024",
+    "alt": "Нарраторы",
+    "hint": "magical storyteller"
+  },
+  "listImage": "https://framerusercontent.com/images/JD1CO602dpqE48gYj851rrlO7vY.png",
+  "filters": [
+    "Все",
+    "Искусственные",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 1,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нарраторы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нарраторы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нарраторы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 74,
+  "firestore_id": "narrators"
+},
+{
+  "id": "neonids",
+  "name": "Неониды",
+  "singularName": "Неонид",
+  "link": "/about-world/races/neonids",
+  "image": {
+    "src": "https://framerusercontent.com/images/6m6KmUZUnB1M0oeszP2yyMkq4Go.png?scale-down-to=1024",
+    "alt": "Неониды",
+    "hint": "bioluminescent being"
+  },
+  "listImage": "https://framerusercontent.com/images/9Hcjk4oz3JqNskaxH5ymGP4zTrc.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Растения и грибы",
+    "Закрытые расы",
+    "Безопасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 1,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неониды - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неониды - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неониды - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 68,
+  "firestore_id": "neonids"
+},
+{
+  "id": "nimfilus",
+  "name": "Нимфилус",
+  "singularName": "Нимфилус",
+  "link": "/about-world/races/nimfilus",
+  "image": {
+    "src": "https://framerusercontent.com/images/xrv75OZy6Iz0J5v1JL5OK3LIMI.png?scale-down-to=1024&width=964&height=1249",
+    "alt": "Нимфилус",
+    "hint": "nymph"
+  },
+  "listImage": "https://framerusercontent.com/images/a804nAvbjBUjHQIPJNxTobevSM.png",
+  "filters": [
+    "Все",
+    "Крылатые",
+    "Коренные Сан-Ликориса",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нимфилус - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нимфилус - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нимфилус - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 63,
+  "firestore_id": "nimfilus"
+},
+{
+  "id": "oprits",
+  "name": "Оприты",
+  "singularName": "Оприт",
+  "link": "/about-world/races/oprits",
+  "image": {
+    "src": "https://framerusercontent.com/images/dHQbl5Nman16UmIH4W7kmb6pD0.png?scale-down-to=1024",
+    "alt": "Оприты",
+    "hint": "octopus person"
+  },
+  "listImage": "https://framerusercontent.com/images/SLhb30bvIuNJLLgRVW193a5Fgw.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Коренные Заприливья",
+    "С животными чертами",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оприты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оприты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оприты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 41,
+  "firestore_id": "oprits"
+},
+{
+  "id": "phoenixes",
+  "name": "Фениксы",
+  "singularName": "Феникс",
+  "link": "/about-world/races/phoenixes",
+  "image": {
+    "src": "https://framerusercontent.com/images/r2HoTSDbSOiX0sNy7IlKlCHORA.png?scale-down-to=1024",
+    "alt": "Фениксы",
+    "hint": "phoenix person"
+  },
+  "listImage": "https://framerusercontent.com/images/DRcTXtogwxG3jRJQEMbiEuL6UuY.png",
+  "filters": [
+    "Все",
+    "Крылатые",
+    "С животными чертами",
+    "Оборотни",
+    "Фамильяры",
+    "Коренные Огнеславии",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Фениксы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Фениксы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Фениксы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 38,
+  "firestore_id": "phoenixes"
+},
+{
+  "id": "polukoshki",
+  "name": "Полукошки",
+  "singularName": "Полукот",
+  "link": "/about-world/races/polukoshki",
+  "image": {
+    "src": "https://framerusercontent.com/images/mvDRYJVlmr1xWGUVrs91FGZG0.png?scale-down-to=1024",
+    "alt": "Полукошки",
+    "hint": "cat person"
+  },
+  "listImage": "https://framerusercontent.com/images/SKPLGm06uXbE8XW2oaCNpNCNoU.png",
+  "filters": [
+    "Все",
+    "Коренные Сан-Ликориса",
+    "С животными чертами",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полукошки - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полукошки - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полукошки - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 17,
+  "firestore_id": "polukoshki"
+},
+{
+  "id": "poluzai",
+  "name": "Полузаи",
+  "singularName": "Полузай",
+  "link": "/about-world/races/poluzai",
+  "image": {
+    "src": "https://framerusercontent.com/images/Rm8V4wHoxXyS1FvlgkunGsBo.png?scale-down-to=1024",
+    "alt": "Полузаи",
+    "hint": "bunny person"
+  },
+  "listImage": "https://framerusercontent.com/images/L426koH5CXtgK6697ci0ER3Td4.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полузаи - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полузаи - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Полузаи - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 18,
+  "firestore_id": "poluzai"
+},
+{
+  "id": "rarities",
+  "name": "Рариты",
+  "singularName": "Рарит",
+  "link": "/about-world/races/rarities",
+  "image": {
+    "src": "https://framerusercontent.com/images/ob7wvgFjAn53JvbEn26RHpexcqo.png?scale-down-to=1024",
+    "alt": "Рариты",
+    "hint": "crystal person"
+  },
+  "listImage": "https://framerusercontent.com/images/cRwQ6vMCVDWvNEx05bcuhlVhldA.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Крылатые",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Рариты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Рариты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Рариты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 25,
+  "firestore_id": "rarities"
+},
+{
+  "id": "reapers",
+  "name": "Жнецы",
+  "singularName": "Жнец",
+  "link": "/about-world/races/reapers",
+  "image": {
+    "src": "https://framerusercontent.com/images/DdvYx0ITm1j0L7KqCQma6es1rYY.png?scale-down-to=1024",
+    "alt": "Жнецы",
+    "hint": "grim reaper"
+  },
+  "listImage": "https://framerusercontent.com/images/yQnF6fYMPtkl8xG85bRZt4kJuRc.png",
+  "filters": [
+    "Все",
+    "Божественные",
+    "Духи",
+    "Закрытые расы"
+  ],
+  "isClosed": true,
+  "closedLevel": 4,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Жнецы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Жнецы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Жнецы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 73,
+  "firestore_id": "reapers"
+},
+{
+  "id": "salamanders",
+  "name": "Саламандры",
+  "singularName": "Саламандра",
+  "link": "/about-world/races/salamanders",
+  "image": {
+    "src": "https://framerusercontent.com/images/nfnrUEcjeP2S0wCEXFstdgO6Cgc.png?scale-down-to=1024",
+    "alt": "Саламандры",
+    "hint": "salamander warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/xyNYp8tsq9cYjfXdzY1EpEPl0.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Коренные Огнеславии",
+    "Оборотни",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Саламандры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Саламандры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Саламандры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 37,
+  "firestore_id": "salamanders"
+},
+{
+  "id": "shadows",
+  "name": "Тени",
+  "singularName": "Тень",
+  "link": "/about-world/races/shadows",
+  "image": {
+    "src": "https://framerusercontent.com/images/SbmOZpZqhsFIMf2vOnhudv6ULc.png?scale-down-to=1024",
+    "alt": "Тени",
+    "hint": "shadow creature"
+  },
+  "listImage": "https://framerusercontent.com/images/guBo4GVqVS3hiBvi6fWblth1O8.png",
+  "filters": [
+    "Все",
+    "Нежить",
+    "Крылатые",
+    "Для новичков",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тени - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тени - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тени - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 14,
+  "firestore_id": "shadows"
+},
+{
+  "id": "sirens",
+  "name": "Сирены",
+  "singularName": "Сирена",
+  "link": "/about-world/races/sirens",
+  "image": {
+    "src": "https://framerusercontent.com/images/AMYO6RVzl50HWlKYKBU4wPom4I.png?scale-down-to=1024",
+    "alt": "Сирены",
+    "hint": "siren"
+  },
+  "listImage": "https://framerusercontent.com/images/PjjRrKmCcO38cuKGlBEBUFqbDs.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Коренные Заприливья",
+    "Только женщины",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сирены - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сирены - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сирены - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 4,
+  "firestore_id": "sirens"
+},
+{
+  "id": "skeletons",
+  "name": "Скелеты",
+  "singularName": "Скелет",
+  "link": "/about-world/races/skeletons",
+  "image": {
+    "src": "https://framerusercontent.com/images/7cZbak5d11z9JT0ySJ03W2hjA.png?scale-down-to=1024",
+    "alt": "Скелеты",
+    "hint": "skeleton warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/2oBqkOtiRNjLVRTeuGr7JJp0Ps.png",
+  "filters": [
+    "Все",
+    "Нежить",
+    "Коренные Артерианска",
+    "Закрытые расы",
+    "Опасные"
+  ],
+  "isClosed": true,
+  "closedLevel": 2,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Скелеты - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Скелеты - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Скелеты - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 71,
+  "firestore_id": "skeletons"
+},
+{
+  "id": "slimes",
+  "name": "Слизни",
+  "singularName": "Слизни",
+  "link": "/about-world/races/slimes",
+  "image": {
+    "src": "https://framerusercontent.com/images/H5rF56x77SfoUHqXV40wt3gLcj0.png?scale-down-to=1024",
+    "alt": "Слизни",
+    "hint": "slime person"
+  },
+  "listImage": "https://framerusercontent.com/images/mqAhbGy0JjDasfUWMlLGdANgiwo.jpg",
+  "filters": [
+    "Все",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Слизни - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Слизни - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Слизни - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 62,
+  "firestore_id": "slimes"
+},
+{
+  "id": "snow-elves",
+  "name": "Снежные эльфы",
+  "singularName": "Снежный эльф",
+  "link": "/about-world/races/snow-elves",
+  "image": {
+    "src": "https://framerusercontent.com/images/jleG4SQwioy1f8pYgv0KGuk7AQ0.png?scale-down-to=1024",
+    "alt": "Снежные эльфы",
+    "hint": "snow elf"
+  },
+  "listImage": "https://framerusercontent.com/images/pRQMlL6fgf7LWTS9DhClrZunoD0.png",
+  "filters": [
+    "Все",
+    "Эльфы",
+    "Коренные Белоснежья",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Снежные эльфы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Снежные эльфы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Снежные эльфы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 8,
+  "firestore_id": "snow-elves"
+},
+{
+  "id": "sphinxes",
+  "name": "Сфинксы",
+  "singularName": "Сфинкс",
+  "link": "/about-world/races/sphinxes",
+  "image": {
+    "src": "https://framerusercontent.com/images/pSMkx19pH28wub7OHhOmyxmsshw.jpg?scale-down-to=1024",
+    "alt": "Сфинксы",
+    "hint": "sphinx"
+  },
+  "listImage": "https://framerusercontent.com/images/XcA61Hm9t35wfOTQOA7BTC7drrY.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Крылатые",
+    "Коренные Огнеславии",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сфинксы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сфинксы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Сфинксы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 35,
+  "firestore_id": "sphinxes"
+},
+{
+  "id": "spirits",
+  "name": "Духи",
+  "singularName": "Дух",
+  "link": "/about-world/races/spirits",
+  "image": {
+    "src": "https://framerusercontent.com/images/vylGVpDAX1Eg4h2UOtqzY4yJZk.png?width=918&height=1283",
+    "alt": "Духи",
+    "hint": "spirit"
+  },
+  "listImage": "https://framerusercontent.com/images/93qsV9Lhx2QYe6U17sj5wud42FU.png",
+  "filters": [
+    "Все",
+    "Духи",
+    "Фамильяры",
+    "Божественные",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Духи - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Духи - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Духи - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 55,
+  "firestore_id": "spirits"
+},
+{
+  "id": "sun-elves",
+  "name": "Солнечные эльфы",
+  "singularName": "Солнечный эльф",
+  "link": "/about-world/races/sun-elves",
+  "image": {
+    "src": "https://framerusercontent.com/images/H9z3sX906uh4sekbpgt8AQQacr0.png?scale-down-to=1024",
+    "alt": "Солнечные эльфы",
+    "hint": "sun elf"
+  },
+  "listImage": "https://framerusercontent.com/images/WEIF68jC4ITjTi761tkUF1LS4.png",
+  "filters": [
+    "Все",
+    "Эльфы",
+    "Коренные Огнеславии",
+    "Для новичков",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Солнечные эльфы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Солнечные эльфы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Солнечные эльфы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 10,
+  "firestore_id": "sun-elves"
+},
+{
+  "id": "sviatoliki",
+  "name": "Светоликие",
+  "singularName": "Светоликий",
+  "link": "/about-world/races/sviatoliki",
+  "image": {
+    "src": "https://framerusercontent.com/images/Ls7NFr86GIyKzTSSo125i44iD1M.png?scale-down-to=1024",
+    "alt": "Светоликие",
+    "hint": "light being"
+  },
+  "listImage": "https://framerusercontent.com/images/IHu5QdNyFGpzRk5cRrJo6sZeOQ.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Светоликие - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Светоликие - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Светоликие - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 32,
+  "firestore_id": "sviatoliki"
+},
+{
+  "id": "talyens",
+  "name": "Тальены",
+  "singularName": "Тальен",
+  "link": "/about-world/races/talyens",
+  "image": {
+    "src": "https://framerusercontent.com/images/M2aD1z0zMadnN0lCrxg9v0gn2tE.png?scale-down-to=1024",
+    "alt": "Тальены",
+    "hint": "horned woman"
+  },
+  "listImage": "https://framerusercontent.com/images/tPx3rxVoLmWzg4n9QoOcGSOw.png",
+  "filters": [
+    "Все",
+    "Дармирцы",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тальены - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тальены - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тальены - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 46,
+  "firestore_id": "talyens"
+},
+{
+  "id": "tritons",
+  "name": "Тритоны",
+  "singularName": "Тритон",
+  "link": "/about-world/races/tritons",
+  "image": {
+    "src": "https://framerusercontent.com/images/MAJPevD0I4nsnTENh0n3EZL7CoA.jpg?scale-down-to=1024",
+    "alt": "Тритоны",
+    "hint": "triton"
+  },
+  "listImage": "https://framerusercontent.com/images/9DbKz2IE7iSvMHUfH03uki7KEPY.png",
+  "filters": [
+    "Все",
+    "Морские",
+    "Коренные Заприливья",
+    "Только мужчины",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тритоны - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тритоны - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Тритоны - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 5,
+  "firestore_id": "tritons"
+},
+{
+  "id": "undying",
+  "name": "Нетленные",
+  "singularName": "Нетленный",
+  "link": "/about-world/races/undying",
+  "image": {
+    "src": "https://framerusercontent.com/images/gArIQWB6pwHfSAX2t1hAyBbJvJQ.png?scale-down-to=1024",
+    "alt": "Нетленные",
+    "hint": "lich"
+  },
+  "listImage": "https://framerusercontent.com/images/MQV9axILlFDwv4rb3wD6AsvKSc.png",
+  "filters": [
+    "Все",
+    "Нежить",
+    "Коренные Артерианска",
+    "Закрытые расы"
+  ],
+  "isClosed": true,
+  "closedLevel": 4,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нетленные - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нетленные - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Нетленные - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 72,
+  "firestore_id": "undying"
+},
+{
+  "id": "unearthly",
+  "name": "Неземные",
+  "singularName": "Неземной",
+  "link": "/about-world/races/unearthly",
+  "image": {
+    "src": "https://framerusercontent.com/images/LmHTQQ1agtWWnzE2qeEUYZGS7c.png?scale-down-to=1024",
+    "alt": "Неземные",
+    "hint": "angel demon"
+  },
+  "listImage": "https://framerusercontent.com/images/YZSe9a7lsdu2K7SdgQzV2yoZJmc.png",
+  "filters": [
+    "Все",
+    "Божественные",
+    "Крылатые",
+    "Опасные",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неземные - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неземные - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Неземные - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 47,
+  "firestore_id": "unearthly"
+},
+{
+  "id": "vampires",
+  "name": "Вампиры",
+  "singularName": "Вампир",
+  "link": "/about-world/races/vampires",
+  "image": {
+    "src": "https://framerusercontent.com/images/RRb21Lbh9wSDYoQxBATER3zQ.png?scale-down-to=1024",
+    "alt": "Вампиры",
+    "hint": "vampire"
+  },
+  "listImage": "https://framerusercontent.com/images/6Ctc95qwOcjw2Hdhomzp9REhqQ.png",
+  "filters": [
+    "Все",
+    "Коренные Артерианска",
+    "Нежить",
+    "Крылатые",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вампиры - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вампиры - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вампиры - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 2,
+  "firestore_id": "vampires"
+},
+{
+  "id": "vansaels",
+  "name": "Вансаэльцы",
+  "singularName": "Вансаэлец",
+  "link": "/about-world/races/vansaels",
+  "image": {
+    "src": "https://framerusercontent.com/images/GtooJtvqikZayePCALfVTDNhVY.png?scale-down-to=1024",
+    "alt": "Вансаэльцы",
+    "hint": "horned demon"
+  },
+  "listImage": "https://framerusercontent.com/images/gojeO5YPTJRnQdK226mXLtA04.png",
+  "filters": [
+    "Все",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вансаэльцы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вансаэльцы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вансаэльцы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 61,
+  "firestore_id": "vansaels"
+},
+{
+  "id": "vesps",
+  "name": "Веспы",
+  "singularName": "Весп",
+  "link": "/about-world/races/vesps",
+  "image": {
+    "src": "https://framerusercontent.com/images/Wh44oPTC2GS82nC8ZNL5usghEe8.png?width=928&height=1167",
+    "alt": "Веспы",
+    "hint": "wasp person"
+  },
+  "listImage": "https://framerusercontent.com/images/D8Yyo6H6zhLZO1EtIEkADFHQgrs.png",
+  "filters": [
+    "Все",
+    "Крылатые",
+    "С животными чертами",
+    "Коренные Артерианска",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Веспы - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Веспы - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Веспы - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 48,
+  "firestore_id": "vesps"
+},
+{
+  "id": "vulgars",
+  "name": "Вулгары",
+  "singularName": "Вулгар",
+  "link": "/about-world/races/vulgars",
+  "image": {
+    "src": "https://framerusercontent.com/images/wxS1zVKCrBbKMxLvBr0vlJ7Ug.png?scale-down-to=1024",
+    "alt": "Вулгары",
+    "hint": "mole person"
+  },
+  "listImage": "https://framerusercontent.com/images/jPWYqUlZ1tok1vSjoGxU5WWDmzU.png",
+  "filters": [
+    "Все"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вулгары - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вулгары - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Вулгары - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 30,
+  "firestore_id": "vulgars"
+},
+{
+  "id": "werewolves",
+  "name": "Оборотни",
+  "singularName": "Оборотень",
+  "link": "/about-world/races/werewolves",
+  "image": {
+    "src": "https://framerusercontent.com/images/ChAEuRqCl0EHBIaFk3Aa41hKtcI.png?scale-down-to=1024",
+    "alt": "Оборотни",
+    "hint": "werewolf"
+  },
+  "listImage": "https://framerusercontent.com/images/swv4TQqcrZBHdX29QQ9qG5GY.png",
+  "filters": [
+    "Все",
+    "С животными чертами",
+    "Оборотни",
+    "Для новичков",
+    "Опасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оборотни - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оборотни - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Оборотни - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 3,
+  "firestore_id": "werewolves"
+},
+{
+  "id": "yatanagi",
+  "name": "Ятанаги",
+  "singularName": "Ятанаги",
+  "link": "/about-world/races/yatanagi",
+  "image": {
+    "src": "https://framerusercontent.com/images/F5EwPoUmx9rWF67TisIDLVjx0.png?scale-down-to=1024",
+    "alt": "Ятанаги",
+    "hint": "spider warrior"
+  },
+  "listImage": "https://framerusercontent.com/images/1SqVSdOGfuQHXei6I9CKK3envGc.png",
+  "filters": [
+    "Все",
+    "Коренные Белоснежья",
+    "Рогатые",
+    "Безопасные"
+  ],
+  "isClosed": false,
+  "closedLevel": null,
+  "details": {
+    "appearanceYear": 0,
+    "tabs": [
+      {
+        "title": "Сроки жизни",
+        "content": "Информация о сроках жизни скоро появится."
+      },
+      {
+        "title": "Происхождение",
+        "content": "Информация о происхождении скоро появится."
+      },
+      {
+        "title": "Внешний вид",
+        "content": "Информация о внешнем виде скоро появится."
+      },
+      {
+        "title": "Особенности поведения",
+        "content": "Информация об особенностях поведения скоро появится."
+      },
+      {
+        "title": "Особенности расы",
+        "content": "Информация об особенностях расы скоро появится."
+      }
+    ],
+    "gallery": [
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ятанаги - Изображение 1",
+        "hint": "fantasy character"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ятанаги - Изображение 2",
+        "hint": "fantasy portrait"
+      },
+      {
+        "src": "https://placehold.co/600x800.png",
+        "alt": "Ятанаги - Изображение 3",
+        "hint": "fantasy art"
+      }
+    ],
+    "subRaces": []
+  },
+  "order": 60,
+  "firestore_id": "yatanagi"
+}
+]

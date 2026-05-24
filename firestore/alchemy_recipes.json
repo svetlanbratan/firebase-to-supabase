@@ -1,0 +1,204 @@
+[
+{
+  "name": "",
+  "components": [
+    {
+      "ingredientId": "item-1756932153226",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760205265290",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760207434529",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760207510620",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760207557169",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760207616192",
+      "qty": 1
+    }
+  ],
+  "resultPotionId": "item-1756072404080",
+  "outputQty": 1,
+  "difficulty": 2,
+  "createdAt": "2025-10-11T18:34:57.033Z",
+  "firestore_id": "4G3fFs56J8HTipVFxsUr"
+},
+{
+  "name": "",
+  "components": [
+    {
+      "ingredientId": "item-1756932088501",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760205265290",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760207510620",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760205225747",
+      "qty": 1
+    }
+  ],
+  "resultPotionId": "item-1756072448738",
+  "outputQty": 1,
+  "difficulty": 1,
+  "createdAt": "2026-01-13T09:51:02.444Z",
+  "firestore_id": "4ymttc2MRgeQtzyCI2pP"
+},
+{
+  "name": "Мазь от ушибов",
+  "components": [
+    {
+      "ingredientId": "item-1756931999930",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1756931882527",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1760205265290",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1768817852907",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1756932153226",
+      "qty": 1
+    }
+  ],
+  "resultPotionId": "item-1756072595490",
+  "outputQty": 5,
+  "difficulty": 2,
+  "createdAt": "2026-01-20T15:17:23.654Z",
+  "firestore_id": "5JXEg1ItpbujAarBHqI4"
+},
+{
+  "name": "",
+  "components": [
+    {
+      "ingredientId": "item-1756931882527",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1756931999930",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1756932088501",
+      "qty": 1
+    },
+    {
+      "ingredientId": "item-1756932153226",
+      "qty": 1
+    }
+  ],
+  "resultPotionId": "item-1756072390325",
+  "outputQty": 1,
+  "difficulty": 1,
+  "createdAt": "2025-10-11T17:28:22.117Z",
+  "firestore_id": "Yh0lyWqWHzNadJ5Yx8RV"
+},
+{
+  "name": "Основа крыльев",
+  "components": [
+    {
+      "ingredientId": "item-1756314216753",
+      "qty": 220
+    },
+    {
+      "ingredientId": "item-1756314185544",
+      "qty": 320
+    },
+    {
+      "ingredientId": "item-1776435098967",
+      "qty": 600
+    },
+    {
+      "ingredientId": "item-1776435175706",
+      "qty": 100
+    }
+  ],
+  "resultPotionId": "item-1776434284236",
+  "outputQty": 1,
+  "difficulty": 1,
+  "createdAt": "2026-04-17T14:13:57.891Z",
+  "firestore_id": "afZXTqnDaOlHHgfLpm3B"
+},
+{
+  "name": " Основа в виде плаща",
+  "resultPotionId": "item-1770122388268",
+  "outputQty": 1,
+  "difficulty": 5,
+  "createdAt": "2026-04-17T12:49:46.853Z",
+  "components": [
+    {
+      "qty": 20,
+      "ingredientId": "item-1768847761747"
+    },
+    {
+      "qty": 20,
+      "ingredientId": "item-1768949586997"
+    },
+    {
+      "qty": 10,
+      "ingredientId": "item-1768847793134"
+    }
+  ],
+  "firestore_id": "bX1hdWflJYakWVJc4LDY"
+},
+{
+  "name": "",
+  "resultPotionId": "item-1768912613471",
+  "outputQty": 1,
+  "difficulty": 1,
+  "createdAt": "2026-01-20T15:09:18.462Z",
+  "components": [
+    {
+      "ingredientId": "item-1768817804588",
+      "qty": 100
+    },
+    {
+      "ingredientId": "item-1768817852907",
+      "qty": 50
+    },
+    {
+      "qty": 80,
+      "ingredientId": "item-1768817876682"
+    },
+    {
+      "ingredientId": "item-1768817939731",
+      "qty": 90
+    },
+    {
+      "qty": 100,
+      "ingredientId": "item-1768817967825"
+    },
+    {
+      "qty": 80,
+      "ingredientId": "item-1768817994660"
+    },
+    {
+      "ingredientId": "item-1768949124586",
+      "qty": 5
+    }
+  ],
+  "firestore_id": "gVstOUyWU4G4hG0RqpEl"
+}
+]
